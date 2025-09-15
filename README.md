@@ -4,7 +4,7 @@
 
 <img align='center' src="https://github.com/anupammaurya6767/Zenit-/blob/main/diagram-export-16-09-2025-01_40_05.png" width="100%">
 
-*Architecture visualization showing the complete Zenit system components, data flow, and integration points between Telegram bot, web interface, download engines, and storage systems.*
+*Architecture visualization showing the complete Zenit system components, data flow.*
 
 **Source**: [GitHub Repository](https://github.com/anupammaurya6767/Zenit-/blob/main/diagram-export-16-09-2025-01_40_05.png)
 
