@@ -1,4 +1,4 @@
-# Zenit: Distributed Media Management Architecture
+# Zenit:
 
 ## System Architecture Diagram
 
